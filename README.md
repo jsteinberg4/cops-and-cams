@@ -1,5 +1,6 @@
 <h2>Cops and Cams: Classifying Police Body Camera Usage By Victim Characteristics</h2>
 <h4 style='text-indent: 4em'>by Michael Ruberto & Jesse Steinberg</p>
+
 --------
 
 <h3>Dataset Licensing</h3>
